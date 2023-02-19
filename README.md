@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Saad
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning js,python
+- 👋 Hi, I’m Saad Physics Student Also Interested In Programing
+- 👀 I’m interested in web development and Artificial intelligence
+- 🌱 I’m currently learning js,python,c++
 - 📫 How to reach me linkedin :https://www.linkedin.com/in/saad-hafyane-5974a4211/
 
 <!---

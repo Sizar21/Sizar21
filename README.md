@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Saad Physics Student Also Interested In Programing
+- 👋 Hi, I’m Saad civil engineering student
 - 👀 I’m interested in web development and Artificial intelligence
 - 🌱 I’m currently learning js,python,c++
 - 📫 How to reach me linkedin :https://www.linkedin.com/in/saad-hafyane-5974a4211/
